@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Atv" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Atv",Atv (1080p)
+#EXTINF:-1 tvg-id="Atv" tvg-logo="" group-title="Atv",Atv
 https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8
-#EXTINF:-1 tvg-id="AtvHd" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="AtvHd",AtvHd (1080p)
+#EXTINF:-1 tvg-id="AtvHd" tvg-logo="" group-title="AtvHd",AtvHd
 https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
-#EXTINF:-1 tvg-id="AtvMas" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Atv+",AtvMas (1080p)
+#EXTINF:-1 tvg-id="AtvMas" tvg-logo="" group-title="Atv+",AtvMas
 https://atvmas.akamaized.net/hls/live/2101282/atvmas/level_1.m3u8
-#EXTINF:-1 tvg-id="Latina" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Latina",Latina (1080p)
+#EXTINF:-1 tvg-id="Latina" tvg-logo="" group-title="Latina",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
