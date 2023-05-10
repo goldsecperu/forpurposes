@@ -7,3 +7,5 @@ https://atvperu.akamaized.net/hls/live/2100630/atv/master_720.m3u8
 https://atvmas.akamaized.net/hls/live/2101282/atvmas/level_1.m3u8
 #EXTINF:-1 tvg-id="Latina" tvg-logo="" group-title="Latina",Latina
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
+#EXTINF:-1 tvg-id="4merica" tvg-logo="" group-title="4merica",4merica
+https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8
